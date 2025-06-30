@@ -12,6 +12,6 @@ Interactive Filtering: Users can easily filter food items by category (e.g., bur
 Responsive Design: Optimized for a seamless viewing experience across all devices, from mobile phones to large desktops, thanks to Tailwind's mobile-first approach.
 
 Clean & Modern UI: Leverages Tailwind CSS to create a visually appealing, minimalist, and intuitive user interface without writing custom CSS.
-
+![image_alt](https://github.com/NatiDogg/food-landing-react-tailwind/blob/main/Screenshot%202025-06-30%204.03.52%20PM.png?raw=true)
 ![image alt](https://github.com/NatiDogg/food-landing-react-tailwind/blob/main/Screenshot%202025-06-30%204.02.29%20PM.png?raw=true)
 ![image alt](https://github.com/NatiDogg/food-landing-react-tailwind/blob/main/Screenshot%202025-06-30%204.04.04%20PM.png?raw=true)
