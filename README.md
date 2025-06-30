@@ -13,4 +13,5 @@ Responsive Design: Optimized for a seamless viewing experience across all device
 
 Clean & Modern UI: Leverages Tailwind CSS to create a visually appealing, minimalist, and intuitive user interface without writing custom CSS.
 
+![image alt](https://github.com/NatiDogg/food-landing-react-tailwind/blob/main/Screenshot%202025-06-30%204.02.29%20PM.png?raw=true)
 
