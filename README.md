@@ -13,5 +13,4 @@ Responsive Design: Optimized for a seamless viewing experience across all device
 
 Clean & Modern UI: Leverages Tailwind CSS to create a visually appealing, minimalist, and intuitive user interface without writing custom CSS.
 
-This project highlights the efficiency and power of combining React's declarative UI capabilities with Tailwind's highly customizable utility classes for building fast, maintainable, and beautiful web applications
->>>>>>> 3ba8dc63ae61d045c01359288bca3d71bf08fe28
+
